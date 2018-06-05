@@ -1,0 +1,6 @@
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\ValAndRefTypes\bin\Debug\Four.exe.config
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\ValAndRefTypes\bin\Debug\Four.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\ValAndRefTypes\bin\Debug\Four.pdb
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\ValAndRefTypes\obj\Debug\Four.csprojResolveAssemblyReference.cache
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\ValAndRefTypes\obj\Debug\Four.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\ValAndRefTypes\obj\Debug\Four.pdb

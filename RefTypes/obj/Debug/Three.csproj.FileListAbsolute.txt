@@ -1,0 +1,6 @@
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\bin\Debug\Three.exe.config
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\bin\Debug\Three.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\bin\Debug\Three.pdb
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\obj\Debug\Three.csprojResolveAssemblyReference.cache
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\obj\Debug\Three.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\obj\Debug\Three.pdb

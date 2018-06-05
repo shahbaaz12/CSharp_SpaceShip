@@ -1,0 +1,6 @@
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\bin\Debug\One.exe.config
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\bin\Debug\One.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\bin\Debug\One.pdb
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\obj\Debug\One.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\obj\Debug\One.pdb
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\obj\Debug\One.csprojResolveAssemblyReference.cache

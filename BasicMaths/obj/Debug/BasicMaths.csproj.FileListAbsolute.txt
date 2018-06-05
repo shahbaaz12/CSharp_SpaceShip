@@ -1,0 +1,6 @@
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\bin\Debug\BasicMaths.exe.config
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\bin\Debug\BasicMaths.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\bin\Debug\BasicMaths.pdb
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\obj\Debug\BasicMaths.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\obj\Debug\BasicMaths.pdb
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\BasicMaths\obj\Debug\BasicMaths.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\bin\Debug\RefTypes.exe.config
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\bin\Debug\RefTypes.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\bin\Debug\RefTypes.pdb
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\obj\Debug\RefTypes.csprojResolveAssemblyReference.cache
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\obj\Debug\RefTypes.exe
+C:\Users\shashaik5\Documents\Visual Studio 2015\Projects\Test\RefTypes\obj\Debug\RefTypes.pdb
